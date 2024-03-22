@@ -1,0 +1,6 @@
+name: UniversalRegions
+version: "${project.version}"
+main: org.regicide.universalregions.UniversalRegions
+api-version: "1.20"
+author: Theorenter
+softdepend: [ Vault, CommandAPI ]
